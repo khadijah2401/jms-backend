@@ -1,4 +1,4 @@
-# Coin Change API – JMS Backend
+# 🪙 Coin Change Calculator API – Backend
 
 This is the backend service for the JMS Coin Change Calculator. Built with Spring Boot, it exposes a simple RESTful API that determines the minimum number of coins needed to make up a given amount, using a greedy algorithm.
 
